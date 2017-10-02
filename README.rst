@@ -35,7 +35,7 @@ Download the template::
 Sphinx syntax
 =============
 
-Sphinx documentation system is based on the `reStructuredText syntax <http://www.sphinx-doc.org/en/stable/rest.html>`_
+`Sphinx documentation system <http://www.sphinx-doc.org>`_ is based on the `reStructuredText syntax <http://www.sphinx-doc.org/en/stable/rest.html>`_
 which is very similar to Markdown.
 
 Recently the possibility to use Markdown instead (or in complement) of reStructuredText using the Marlkdown flavor `CommonMark <http://recommonmark.readthedocs.io/en/latest/index.html>`_. 
